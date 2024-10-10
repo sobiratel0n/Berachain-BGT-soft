@@ -36,7 +36,7 @@ BEND_CONTRACT = '0x30A3039675E5b5cbEA49d9a5eacbc11f9199B86D'
 UA = fake_useragent.UserAgent()
 # ------------------------------------------->CONFIG START<--------------------------------------------------
 
-TWO_API_CAPTCHA_KEY = "44887030e32253c3f4e80af10664e686"
+TWO_API_CAPTCHA_KEY = "YOUR KEY"
 accounts_to_make = [3, 40]
 
 MIN_SLEEP_FAUCET = 3
