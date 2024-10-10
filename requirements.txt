@@ -1,0 +1,7 @@
+web3
+loguru
+requests
+eth_account
+questionary
+proxy_checker
+fake_useragent
